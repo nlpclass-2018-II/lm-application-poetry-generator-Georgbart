@@ -1,0 +1,22 @@
+1. What are the top 10 unigram words having highest probability?
+
+{'aku': 36,
+ 'dalam': 18,
+ 'dan': 32,
+ 'dari': 13,
+ 'di': 42,
+ 'kami': 19,
+ 'lagi': 18,
+ 'tak': 20,
+ 'tidak': 18,
+ 'yang': 46}
+
+2. What are the top 10 bigrams words having highest probability?
+
+3. What do you think of the perplexity comparison between the unigram and bigram model?
+suprisingly unigrams better,but it may be because of the amount of unknown word
+
+4. Give the example of your generated poetry based on the unigram and the bigram model, and give your comment! (e.g: is it believable as a poetry? :D).
+yang tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak seorang kan merayu tidak juga kau tak'
+
+i cannot stop the loop
